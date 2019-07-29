@@ -1,4 +1,4 @@
-import nnVis.densenet
+import densenet
 
 
 def test_env_is_working():
